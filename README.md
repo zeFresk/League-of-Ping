@@ -1,7 +1,7 @@
 League Of Lag-omètre / League of Ping
 ====
 
-![Tu vois pas l'image ? moche...](http://image.noelshack.com/fichiers/2014/43/1414274098-screen-lagometre.jpg)
+![Tu vois pas l'image ? moche...](http://image.noelshack.com/fichiers/2014/43/1414274098-screen-lagometre.jpg)  
 Trow bow.
 
 Kékessé ?
@@ -11,7 +11,7 @@ Elle est pas belle la vie ? Vous n'avez qu'à le laisser tourner et vous pourrez
 
 Oukessasetélécharge ?
 ----
-Dans le dossier build téléchargez le dernier build.rar !
+Dans le dossier build téléchargez le dernier build.rar !  
 Ou alors cliquez ici : [Lien mediafire](http://www.mediafire.com/download/w4vdh8k988b7677/build.rar)
 
 Etsijetefékropakonfianss ?
